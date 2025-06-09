@@ -2,7 +2,22 @@
 <hr/>
 
 
-
+<h4>Introduction: </h4>
+<p>Mental health issues are becoming increasingly common among individuals over the 
+age of 16, with academic, social, and career-related stress being the main reasons. 
+Traditional mental health assessment methods, such as surveys or counseling, are often 
+affected by personal biases or insufficient information. With this in mind, our project presents 
+a system that collects and analyzes EEG (electroencephalogram) brain wave graphs across 
+different mental states — such as awake, drowsy, and deep sleep. 
+<br/>Users upload a multi-page PDF report containing the EEG graph to the system. This 
+PDF is then separated into pages, analyzed with the help of a trained machine learning 
+model, and the percentage probability of the user’s mental state being normal or abnormal is 
+displayed. The system is trained on a dataset of EEG graphs classified by experts. 
+<br/>Importantly, this project is not intended to be a substitute for medical diagnosis or 
+professional mental health services. Instead, the project seeks to raise awareness and act as a 
+link between individuals and mental health professionals, especially for those who may not 
+recognize the need for help. The ultimate goal is to make early mental health screening in 
+educational institutions more accessible, data-based, and stigma-free. </p>
 <h4>Output Screens: </h4>
 <hr/>
 
